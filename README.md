@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # graduation-app
 
 ## 1. サービス概要（※最後に書いてOK）
