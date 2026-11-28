@@ -256,3 +256,6 @@ MVPで「理由が分かると迷わない」ことを確認できたら、継�
 # 画面遷移図
 
 https://www.figma.com/design/JAAfa6dG20BecdL0whGLYh/%E3%83%88%E3%83%AC%E8%BE%9E%E6%9B%B8%E3%80%80%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?node-id=3-2&t=Lr6s9nYOQiCIu6TD-0
+
+# ER図
+https://gyazo.com/35dc1f49d92eb87666504fc2d72ab106
